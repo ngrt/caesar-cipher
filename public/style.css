@@ -1,0 +1,13 @@
+body {
+	 background-image: url('background.jpg');
+	 background-size: cover;
+}
+
+.container {
+	padding-top: 5em;
+}
+
+
+.alert {
+	margin-top: 10px;
+}
